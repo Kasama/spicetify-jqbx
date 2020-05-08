@@ -17,16 +17,16 @@ How to install
 
   MacOS: `~/spicetify_data/CustomApps`
 
-3. Change your `config.ini` to include the `jqbx` app
+3. Add the app to your spotify by running `spicetify config custom_apps spicetify-jqbx` or change your `config.ini` to include the `spicetify-jqbx` app
 
 ```ini
 [AdditionalOptions]
 ...
-custom_apps = reddit|yourownapp
+custom_apps = spicetify-jqbx
 ```
 
 4. Run `spicetify apply`
 5. Open spotify
 
 [spicetify]: https://github.com/khanhas/spicetify-cli/
-[release]: https://github.com/Kasama/spicetify-jqbx/archive/v1.0.0.zip
+[release]: https://github.com/Kasama/spicetify-jqbx/archive/v1.1.0.zip
