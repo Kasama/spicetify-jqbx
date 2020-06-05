@@ -9,7 +9,8 @@ How to install
 --------------
 
 1. You need to have [spicetify][spicetify] installed
-2. Clone this repository into your [spicetify custom apps directory](https://github.com/khanhas/spicetify-cli/wiki/Custom-Apps) or unzip the [latest release][release] in the correct directory depending on your OS.
+2. Clone this repository using `git clone https://github.com/Kasama/spicetify-jqbx.git JQBX` into your [spicetify custom apps directory](https://github.com/khanhas/spicetify-cli/wiki/Custom-Apps) or unzip the [latest release][release] in the correct directory depending on your OS.
+The folder name will need to be renamed to JQBX.
 
   Windows: `%userprofile%\.spicetify\CustomApps\`
 
@@ -17,7 +18,7 @@ How to install
 
   MacOS: `~/spicetify_data/CustomApps`
 
-3. Add the app to your spotify by running `spicetify config custom_apps spicetify-jqbx` or change your `config.ini` to include the `spicetify-jqbx` app
+3. Add the app to your spotify by running `spicetify config custom_apps JQBX` or change your `config.ini` to include the `JQBX` app folder.
 
 ```ini
 [AdditionalOptions]
