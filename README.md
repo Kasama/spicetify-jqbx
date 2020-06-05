@@ -23,7 +23,7 @@ The folder name will need to be renamed to JQBX.
 ```ini
 [AdditionalOptions]
 ...
-custom_apps = spicetify-jqbx
+custom_apps = JQBX
 ```
 
 4. Run `spicetify apply`
