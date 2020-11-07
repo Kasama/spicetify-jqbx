@@ -1,7 +1,7 @@
 {
   "BundleIdentifier": "JQBX",
   "BundleType": "Application",
-  "BundleVersion": "1.0.0",
+  "BundleVersion": "1.1.0",
   "VendorIdentifier": "com.spotify",
   "UserInstallable": true,
   "AppDescription": {
