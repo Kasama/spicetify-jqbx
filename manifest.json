@@ -1,7 +1,7 @@
 {
   "BundleIdentifier": "jqbx",
   "BundleType": "Application",
-  "BundleVersion": "1.1.1",
+  "BundleVersion": "1.1.2",
   "VendorIdentifier": "com.spotify",
   "AppName": "JQBX",
   "AppDescription": "Use JQBX.fm within spotify",
